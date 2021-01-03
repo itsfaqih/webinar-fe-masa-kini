@@ -6,5 +6,5 @@
         - `npm start`: Menjalankan project mode development
         - `npm run build`: Meng-compile project mode production, output pada folder `build`. Untuk menjalankan hasil build, disarankan menggunakan http server
     - tailwind: 
-        - `npm watch`: Meng-compile tailwind dengan mode development
+        - `npm run watch`: Meng-compile tailwind dengan mode development
         - `npm run build`: Meng-compile tailwind dengan mode production
