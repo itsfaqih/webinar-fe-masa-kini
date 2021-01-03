@@ -10,10 +10,9 @@
     "postcss-cli": "^8.3.1",
     "tailwindcss": "^2.0.2"
   },
-  "devDependencies": {
-    "cross-env": "^7.0.3"
-  },
+  "devDependencies": {},
   "scripts": {
-    "build-style": "postcss style.css -o tailwind.css --env production"
+    "watch": "postcss style.css -o tailwind.css -w",
+    "build": "postcss style.css -o tailwind.css --env production"
   }
 }
