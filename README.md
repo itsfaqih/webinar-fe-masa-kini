@@ -1,3 +1,6 @@
+## Cara download:
+![Screenshot cara download langsung](https://i.imgur.com/7v1EYqx.png)
+
 ## Cara pakai:
 1. Pastikan sudah menginstall nodejs https://nodejs.org/en/ (pakai LTS saja)
 2. Jika ada file `package.json` di dalam folder, jalankan perintah di command prompt: `npm install`, tunggu hingga selesai
